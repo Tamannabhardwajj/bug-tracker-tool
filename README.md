@@ -31,13 +31,3 @@ A modern, full-stack **Bug Tracking System** built with the **MERN stack** (Mong
 ![Login](screenshot-login.png)
 ![Dashboard](screenshot-dashboard.png)
 ![Register Sceen](screenshot-register.png)
-
-## 📦 How to Run Locally
-
-> Make sure MongoDB is installed and running locally on port `27017`.
-
-### ✅ 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/bug-tracker-tool.git
-cd bug-tracker-tool
